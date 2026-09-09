@@ -45,6 +45,7 @@ Interpret related commands as follows:
 <!-- BEGIN PORTFOLIO-CONTROL MANAGED -->
 ## Governed agentic delivery
 
+- Read `.agents/skills/engineering-execution/SKILL.md` for nontrivial work: complete the requested outcome, verify its entry point, and preserve context.
 - Product: `dsp-radar-learning`; delivery profile: `product-data`.
 - Control revision: `d929d292dcbda6881248d53d02476879eeaa1631`; harness version: `2`.
 - Read `contracts/profile-requirements.yaml` and the approved
